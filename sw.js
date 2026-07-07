@@ -1,10 +1,11 @@
-const CACHE_NAME = 'dany-capture-v01';
+const CACHE_NAME = 'dany-capture-v02';
 const ASSETS = [
   './',
   './index.html',
   './css/style.css',
   './js/db.js',
   './js/ui.js',
+  './js/speech.js',
   './js/app.js',
   './manifest.json',
   './images/icon.svg'
