@@ -125,3 +125,5 @@ function setupSpeechCapture() {
   if (!button) return;
   button.addEventListener('click', startVoiceCapture);
 }
+
+document.addEventListener('DOMContentLoaded', setupSpeechCapture);
