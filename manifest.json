@@ -1,0 +1,18 @@
+{
+  "name": "Dany Capture",
+  "short_name": "Dany",
+  "description": "Capture rapide chantier pour SOS Peinture et Réparation.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#111827",
+  "lang": "fr-FR",
+  "icons": [
+    {
+      "src": "images/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
